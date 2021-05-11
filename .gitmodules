@@ -1,0 +1,12 @@
+[submodule "themes/diary"]
+	path = themes/diary
+	url = https://github.com/AmazingRise/hugo-theme-diary.git
+[submodule "themes/m10c"]
+	path = themes/m10c
+	url = https://github.com/vaga/hugo-theme-m10c.git
+[submodule "themes/ink"]
+	path = themes/ink
+	url = https://github.com/knadh/hugo-ink.git
+[submodule "themes/even"]
+	path = themes/even
+	url = https://github.com/olOwOlo/hugo-theme-even
